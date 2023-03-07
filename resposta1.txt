@@ -1,0 +1,4 @@
+leia o primeiro número 
+leia o segundo número 
+soma os dois
+veja o resultado 

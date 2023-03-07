@@ -1,0 +1,9 @@
+leia a temperatura 
+leia unidade
+se unidade igual a celsius 
+se o resultado = temperatura 1.8 + 32 
+0 resultado é resultado 
+senão 
+temperatura -32 1.8 
+escreva 0 resultado 0 resultado 
+
