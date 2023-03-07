@@ -1,0 +1,5 @@
+leia a lista 
+soma cada elemento da lista 
+divide pela quantidade de elementos 
+optenha a média 
+escreva a média 
